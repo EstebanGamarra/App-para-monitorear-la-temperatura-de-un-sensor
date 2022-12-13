@@ -15,3 +15,5 @@ Carrera: Ingeniería Electrónica
 Año: 2021
 
 Resumen:
+
+El trabajo utilizó el MIT App Inventor 2 para el desarrollo de la app, una placa Arduino UNO como micro controlador principal, y además los módulos; de bluetooth HC-05, módulo PTC para medir la temperatura, un led RGB y un RTC DS3231.
